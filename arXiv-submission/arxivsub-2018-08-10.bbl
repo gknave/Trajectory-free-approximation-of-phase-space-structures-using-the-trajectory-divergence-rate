@@ -1,0 +1,259 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{aldridge2006direct}
+Aldridge, B.B., Haller, G., Sorger, P.K., Lauffenburger, D.A.: Direct lyapunov
+  exponent analysis enables parametric study of transient signalling governing
+  cell behaviour.
+\newblock IEE Proceedings-Systems Biology \textbf{153}(6), 425--432 (2006)
+
+\bibitem{ali1999local}
+Ali, F., Menzinger, M.: On the local stability of limit cycles.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{9}(2), 348--356 (1999)
+
+\bibitem{allshouse2012detecting}
+Allshouse, M.R., Thiffeault, J.L.: Detecting coherent structures using braids.
+\newblock Physica D: Nonlinear Phenomena \textbf{241}(2), 95--105 (2012)
+
+\bibitem{ameli2014development}
+Ameli, S., Desai, Y., Shadden, S.C.: Development of an efficient and flexible
+  pipeline for lagrangian coherent structure computation.
+\newblock In: Topological Methods in Data Analysis and Visualization III, pp.
+  201--215. Springer (2014)
+
+\bibitem{balasuriya2018generalized}
+Balasuriya, S., Ouellette, N.T., Rypina, I.I.: Generalized lagrangian coherent
+  structures.
+\newblock Physica D: Nonlinear Phenomena  (2018)
+
+\bibitem{brunton2010fast}
+Brunton, S.L., Rowley, C.W.: Fast computation of finite-time lyapunov exponent
+  fields for unsteady flows.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{20}(1), 017503 (2010)
+
+\bibitem{budivsic2015finite}
+Budi{\v{s}}i{\'c}, M., Thiffeault, J.L.: Finite-time braiding exponents.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{25}(8), 087407 (2015)
+
+\bibitem{chakraborty2005relationships}
+Chakraborty, P., Balachandar, S., Adrian, R.J.: On the relationships between
+  local vortex identification schemes.
+\newblock Journal of fluid mechanics \textbf{535}, 189--214 (2005)
+
+\bibitem{de2014relocatable}
+De~Dominicis, M., Falchetti, S., Trotta, F., Pinardi, N., Giacomelli, L.,
+  Napolitano, E., Fazioli, L., Sorgente, R., Haley~Jr, P.J., Lermusiaux, P.F.,
+  et~al.: A relocatable ocean model in support of environmental emergencies.
+\newblock Ocean Dynamics \textbf{64}(5), 667--688 (2014)
+
+\bibitem{dellnitz2001algorithms}
+Dellnitz, M., Froyland, G., Junge, O.: The algorithms behind gaio—set
+  oriented numerical methods for dynamical systems.
+\newblock In: Ergodic theory, analysis, and efficient simulation of dynamical
+  systems, pp. 145--174. Springer (2001)
+
+\bibitem{desroches2011canards}
+Desroches, M., Jeffrey, M.R.: Canards and curvature: the ‘smallness of
+  $\varepsilon$’in slow--fast dynamics.
+\newblock In: Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences, p. rspa20110053. The Royal Society (2011)
+
+\bibitem{froyland2015rough}
+Froyland, G., Padberg-Gehle, K.: A rough-and-ready cluster-based approach for
+  extracting finite-time coherent sets from sparse and incomplete trajectory
+  data.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{25}(8), 087406 (2015)
+
+\bibitem{garth2007efficient}
+Garth, C., Gerhardt, F., Tricoche, X., Hans, H.: Efficient computation and
+  visualization of coherent structures in fluid flow applications.
+\newblock IEEE Transactions on Visualization and Computer Graphics
+  \textbf{13}(6), 1464--1471 (2007)
+
+\bibitem{gawlik2009lagrangian}
+Gawlik, E.S., Marsden, J.E., Du~Toit, P.C., Campagnola, S.: Lagrangian coherent
+  structures in the planar elliptic restricted three-body problem.
+\newblock Celestial mechanics and dynamical astronomy \textbf{103}(3), 227--249
+  (2009)
+
+\bibitem{green2010using}
+Green, M.A., Rowley, C.W., Smits, A.J.: Using hyperbolic lagrangian coherent
+  structures to investigate vortices in bioinspired fluid flows.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{20}(1), 017510 (2010)
+
+\bibitem{hadjighasem2017critical}
+Hadjighasem, A., Farazmand, M., Blazevski, D., Froyland, G., Haller, G.: A
+  critical comparison of lagrangian methods for coherent structure detection.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{27}(5), 053104 (2017)
+
+\bibitem{haley2010multiscale}
+Haley, P.J., Lermusiaux, P.F.: Multiscale two-way embedding schemes for
+  free-surface primitive equations in the “multidisciplinary simulation,
+  estimation and assimilation system”.
+\newblock Ocean dynamics \textbf{60}(6), 1497--1537 (2010)
+
+\bibitem{haller2001lagrangian}
+Haller, G.: Lagrangian structures and the rate of strain in a partition of
+  two-dimensional turbulence.
+\newblock Physics of Fluids \textbf{13}(11), 3365--3385 (2001)
+
+\bibitem{haller_variational_2011}
+Haller, G.: A variational theory of hyperbolic {Lagrangian} coherent
+  structures.
+\newblock Physica D: Nonlinear Phenomena \textbf{240}(7), 574--598 (2011)
+
+\bibitem{haller2010localized}
+Haller, G., Sapsis, T.: Localized instability and attraction along invariant
+  manifolds.
+\newblock SIAM Journal on Applied Dynamical Systems \textbf{9}(2), 611--633
+  (2010)
+
+\bibitem{kai2009top}
+Kai, E.T., Rossi, V., Sudre, J., Weimerskirch, H., Lopez, C., Hernandez-Garcia,
+  E., Marsac, F., Gar{\c{c}}on, V.: Top marine predators track lagrangian
+  coherent structures.
+\newblock Proceedings of the National Academy of Sciences \textbf{106}(20),
+  8245--8250 (2009)
+
+\bibitem{koon2008dynamical}
+Koon, W.S., Lo, M.W., Marsden, J.E., Ross, S.D.: Dynamical systems, the
+  three-body problem and space mission design.
+\newblock Marsden Books (2011).
+\newblock {ISBN} 978-0-615-24095-4
+
+\bibitem{krupa2001relaxation}
+Krupa, M., Szmolyan, P.: Relaxation oscillation and canard explosion.
+\newblock Journal of Differential Equations \textbf{174}(2), 312--368 (2001)
+
+\bibitem{kuehn2016multiple}
+Kuehn, C.: Multiple time scale dynamics, vol.~1.
+\newblock Springer (2016)
+
+\bibitem{lekien2005pollution}
+Lekien, F., Coulliette, C., Mariano, A.J., Ryan, E.H., Shay, L.K., Haller, G.,
+  Marsden, J.: Pollution release tied to invariant manifolds: A case study for
+  the coast of {F}lorida.
+\newblock Physica D: Nonlinear Phenomena \textbf{210}(1-2), 1--20 (2005)
+
+\bibitem{lekien2010computation}
+Lekien, F., Ross, S.D.: The computation of finite-time lyapunov exponents on
+  unstructured meshes and for non-euclidean manifolds.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{20}(1), 017505 (2010)
+
+\bibitem{lopesino2017theoretical}
+Lopesino, C., Balibrea-Iniesta, F., Garc{\'\i}a-Garrido, V.J., Wiggins, S.,
+  Mancho, A.M.: A theoretical framework for lagrangian descriptors.
+\newblock International Journal of Bifurcation and Chaos \textbf{27}(01),
+  1730001 (2017)
+
+\bibitem{madrid2009distinguished}
+Madrid, J.J., Mancho, A.M.: Distinguished trajectories in time dependent vector
+  fields.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{19}(1), 013111 (2009)
+
+\bibitem{nave2018global}
+Nave~Jr, G.K., Ross, S.D.: Global phase space structures in a model of passive
+  descent.
+\newblock Under Review, arXiv preprint arXiv:1804.05099  (2018)
+
+\bibitem{norris2008revisiting}
+Norris, J.A., Marsh, A.P., Granata, K.P., Ross, S.D.: Revisiting the stability
+  of 2d passive biped walking: local behavior.
+\newblock Physica D: Nonlinear Phenomena \textbf{237}(23), 3038--3045 (2008)
+
+\bibitem{peng2008theupstream}
+Peng, J., Dabiri, J.O.: The `upstream wake' of swimming and flying animals and
+  its correlation with propulsive efficiency.
+\newblock Journal of Experimental Biology \textbf{211}(16), 2669--2677 (2008)
+
+\bibitem{schindler2012ridge}
+Schindler, B., Peikert, R., Fuchs, R., Theisel, H.: Ridge concepts for the
+  visualization of lagrangian coherent structures.
+\newblock In: Topological Methods in Data Analysis and Visualization II, pp.
+  221--235. Springer (2012)
+
+\bibitem{schmale2015highways}
+Schmale~III, D.G., Ross, S.D.: Highways in the sky: Scales of atmospheric
+  transport of plant pathogens.
+\newblock Annual review of phytopathology \textbf{53}, 591--611 (2015)
+
+\bibitem{serra_objective_2016}
+Serra, M., Haller, G.: Objective {Eulerian} coherent structures.
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science
+  \textbf{26}(5), 053110 (2016)
+
+\bibitem{shadden2011lagrangian}
+Shadden, S.C.: Lagrangian coherent structures.
+\newblock Transport and Mixing in Laminar Flows: From Microfluidics to Oceanic
+  Currents pp. 59--89 (2011)
+
+\bibitem{shadden2005definition}
+Shadden, S.C., Lekien, F., Marsden, J.E.: Definition and properties of
+  lagrangian coherent structures from finite-time lyapunov exponents in
+  two-dimensional aperiodic flows.
+\newblock Physica D: Nonlinear Phenomena \textbf{212}(3), 271--304 (2005)
+
+\bibitem{strogatz_nonlinear_2014}
+Strogatz, S.H.: Nonlinear dynamics and chaos: with applications to physics,
+  biology, chemistry, and engineering.
+\newblock Westview press (2014)
+
+\bibitem{tallapragada2017globally}
+Tallapragada, P., Sudarsanam, S.: A globally stable attractor that is locally
+  unstable everywhere.
+\newblock AIP Advances \textbf{7}(12), 125012 (2017)
+
+\bibitem{tanaka2010mathematical}
+Tanaka, M.L., Ross, S.D., Nussbaum, M.A.: Mathematical modeling and simulation
+  of seated stability.
+\newblock Journal of biomechanics \textbf{43}(5), 906--912 (2010)
+
+\bibitem{truesdell2004non}
+Truesdell, C., Noll, W.: The non-linear field theories of mechanics.
+\newblock Springer (2004)
+
+\bibitem{wiggins2003introduction}
+Wiggins, S.: Introduction to applied nonlinear dynamical systems and chaos,
+  vol.~2.
+\newblock Springer Science \& Business Media (2003)
+
+\bibitem{wiggins2005dynamical}
+Wiggins, S.: The dynamical systems approach to lagrangian transport in oceanic
+  flows.
+\newblock Annu. Rev. Fluid Mech. \textbf{37}, 295--328 (2005)
+
+\bibitem{wiggins2013normally}
+Wiggins, S.: Normally hyperbolic invariant manifolds in dynamical systems, vol.
+  105.
+\newblock Springer Science \& Business Media (2013)
+
+\bibitem{xie2018lagrangian}
+Xie, X., Nolan, P., Ross, S., Iliescu, T.: Lagrangian data-driven reduced order
+  modeling of finite time lyapunov exponents.
+\newblock Under Review  (2018)
+
+\bibitem{yeaton_global_2017}
+Yeaton, I.J., Socha, J.J., Ross, S.D.: Global dynamics of non-equilibrium
+  gliding in animals.
+\newblock Bioinspiration \& Biomimetics \textbf{12}(2), 026013 (2017).
+\newblock \doi{10.1088/1748-3190/aa60e2}
+
+\bibitem{zhong2017tube}
+Zhong, J., Virgin, L.N., Ross, S.D.: A tube dynamics perspective governing
+  stability transitions: An example based on snap-through buckling.
+\newblock International Journal of Mechanical Sciences  (2017)
+
+\end{thebibliography}

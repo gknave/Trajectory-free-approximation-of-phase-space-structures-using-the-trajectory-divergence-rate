@@ -1,0 +1,58 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{schmale2015highways}
+D.~G. Schmale~III, S.~D. Ross, Highways in the sky: Scales of atmospheric
+  transport of plant pathogens, Annual review of phytopathology 53 (2015)
+  591--611.
+
+\bibitem{kai2009top}
+E.~T. Kai, V.~Rossi, J.~Sudre, H.~Weimerskirch, C.~Lopez, E.~Hernandez-Garcia,
+  F.~Marsac, V.~Gar{\c{c}}on, Top marine predators track lagrangian coherent
+  structures, Proceedings of the National Academy of Sciences 106~(20) (2009)
+  8245--8250.
+
+\bibitem{gawlik2009lagrangian}
+E.~S. Gawlik, J.~E. Marsden, P.~C. Du~Toit, S.~Campagnola, Lagrangian coherent
+  structures in the planar elliptic restricted three-body problem, Celestial
+  mechanics and dynamical astronomy 103~(3) (2009) 227--249.
+
+\bibitem{wiggins2005dynamical}
+S.~Wiggins, The dynamical systems approach to lagrangian transport in oceanic
+  flows, Annu. Rev. Fluid Mech. 37 (2005) 295--328.
+
+\bibitem{hadjighasem2017critical}
+A.~Hadjighasem, M.~Farazmand, D.~Blazevski, G.~Froyland, G.~Haller, A critical
+  comparison of lagrangian methods for coherent structure detection, Chaos: An
+  Interdisciplinary Journal of Nonlinear Science 27~(5) (2017) 053104.
+
+\bibitem{haller_variational_2011}
+G.~Haller,
+  \href{http://www.sciencedirect.com/science/article/pii/S0167278910003143}{A
+  variational theory of hyperbolic {Lagrangian} coherent structures}, Physica
+  D: Nonlinear Phenomena 240~(7) (2011) 574--598.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0167278910003143}
+
+\bibitem{serra_objective_2016}
+M.~Serra, G.~Haller,
+  \href{http://aip.scitation.org/doi/abs/10.1063/1.4951720}{Objective
+  {Eulerian} coherent structures}, Chaos: An Interdisciplinary Journal of
+  Nonlinear Science 26~(5) (2016) 053110.
+\newline\urlprefix\url{http://aip.scitation.org/doi/abs/10.1063/1.4951720}
+
+\bibitem{strogatz_nonlinear_2014}
+S.~H. Strogatz,
+  \href{https://books.google.com/books?hl=en&lr=&id=aMrSDQAAQBAJ&oi=fnd&pg=PR5&dq=strogatz+nonlinear+dynamics&ots=PmHNuP2qFK&sig=xMOdBam5V1KHixy711zU6lK7r6A}{Nonlinear
+  dynamics and chaos: with applications to physics, biology, chemistry, and
+  engineering}, Westview press, 2014.
+\newline\urlprefix\url{https://books.google.com/books?hl=en&lr=&id=aMrSDQAAQBAJ&oi=fnd&pg=PR5&dq=strogatz+nonlinear+dynamics&ots=PmHNuP2qFK&sig=xMOdBam5V1KHixy711zU6lK7r6A}
+
+\bibitem{verhulst2007singular}
+F.~Verhulst, Singular perturbation methods for slow--fast dynamics, Nonlinear
+  Dynamics 50~(4) (2007) 747--753.
+
+\end{thebibliography}

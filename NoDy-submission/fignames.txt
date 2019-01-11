@@ -1,0 +1,25 @@
+1. PhasePlot_saddle
+-> Fig3
+2. PhasePlot_hop1
+--> Fig19
+3. PhasePlot_hop2
+--> Fig19
+4. PhasePlot_rotating-hoop
+-> Fig7
+5. PhasePlot_haller-example
+6. PhasePlot_glider-example
+-> Fig12
+7. PhasePlot_vanderPol
+-> Fig15
+8. min-rho-dot.eps
+-> Fig11
+
+TODO Python
+Plot superstable, unstable mnflds for glider-example
+ -> Fig12
+TODO in Illustrator:
+Hopf figures -> Fig19
+min-rho-dot -> Fig11
+Peter figure -> Fig14
+2D-rep-rate -> Fig1
+2D-div-rate -> Fig2

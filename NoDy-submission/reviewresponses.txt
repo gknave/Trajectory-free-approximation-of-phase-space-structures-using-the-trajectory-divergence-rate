@@ -1,0 +1,28 @@
+1. Fixed typo
+2. Done. Added two new references (Wiggins et al. 2001 and Dellnitz et la. 2005) to account for these references.
+3. Added sentence citing Lagrangian descriptors.
+4. Removed the explicit equation reference and added definition of R.
+5. I think I'll simply reply to this in the response to reviewers. I don't see a place where it makes sense to discuss this within the paper, and the Lekien/Ross paper is already referenced.
+6. Removed duplicate definition.
+7. Added missing word.
+8. Broke up 2nd equation to show missing k=1, k\geq2
+9. Fixed typo
+10. Clarified sentence.
+11. Done. Changed to green for visibility. (Fig. 1 and Fig. 2)
+12. Problem caused by problem 8. Eq (8) was too wide for one column.
+13. Fixed.
+14. Fixed.
+15. Darkened both the streamlines and the phase plot arrows, in addition to
+decreasing the density of streamlines. 
+16. I moved this discussion to the end of the "Notes" I think it makes a better transition to the next section. I may need to re-read it to make sure the ideas flow logically.
+17. Removed this thought. I'm really not sure where it was going.
+18. Done.
+19. Removed ref. to red curve, replaced with ``negative ridge of TDR''
+20. Clarified that minimization is local in several places.
+21. Replaced v^2 with v_x^2+v_z^2
+22. Fixed the sentence. Added mnflds to figure.
+23. Fixed now. Mistake actually in the text, caption was correct.
+24. Done. Will add comment to response that values are small in bottom half of figure.
+25. Completed the sentence. May need to re-read the paragraph to make sure it
+makes sense.
+26. Fixed typo.

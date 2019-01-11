@@ -1,0 +1,49 @@
+Fix the (left) (right) captions
+
+Peter liked it. Visibly unfinished - spelling errors.
+
+Confused with Fig. 11.
+
+Fig. 10 - Fix label of integration time (a) and (b)
+
+Combine Fig. 9 and Fig. 10
+
+Do a better job analyzing the differences of 
+
+When talking about main result and in Sec. 2.2, 
+be clear about dimension when introducing div rate
+
+Colors of Fig. 2 should match Fig. 1
+
+rhoT should be discribed as 
+
+Get rid of "something like" -> "Time normalized slope of normal distance"
+
+In 2nd paragraph of main result
+
+As shown in "appendix" A
+
+Fig. 3 has a bunch of dots
+
+contourf and set it to hundreds of levels
+
+Be more specific about what would be attracting and repelling curve for rhoT
+We get attracting and repelling curves all at once! Big selling point!
+
+Spell out that "true curve" is within totally attracting and repelling regions
+
+Use insets to highlight curves
+
+Update Eq (31) to be an integral
+
+Fig. 7, y_0 should be \phi_0
+
+Use diagnostic in the introduction
+
+Update higher dimensional figure
+
+Be sure to specify hyperbolic
+
+The end of the first sentence sounds weird
+
+Sometimes say "we." Feels inconsistent, and like it's unnecessary
